@@ -3,5 +3,5 @@
 .ipynb_checkpoints
 
 # Images and data
-datasets/.
-images/font_samples/.
+datasets/*
+images/font_samples/*
