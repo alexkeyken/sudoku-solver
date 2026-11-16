@@ -1,4 +1,7 @@
 
-
+# System files
 .ipynb_checkpoints
-data/.
+
+# Images and data
+datasets/.
+images/font_samples/.
