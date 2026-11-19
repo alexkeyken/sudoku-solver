@@ -2,6 +2,8 @@
 # System files
 .ipynb_checkpoints
 
-# Images and data
+# Models and data
 datasets/*
 images/*
+models/*
+reports/*
